@@ -1,10 +1,3 @@
-# Cookiecuter Personal Platzi
-
-<!-- badges: start -->
-[![@jvelzmagic](https://img.shields.io/badge/@jvelezmagic-Sitio_personal-blue?&logoColor=white)](https://jvelezmagic.com/) 
-[![Platzi](https://img.shields.io/badge/Curso_Platzi-Configuración_Avanzada_...-green&logoColor=white)](https://platzi.com/datos/)
-<!-- badges: end -->
-
 Aprende a crear tu propia plantilla personalizada utilizando cookiecutter.
 
 ## Requiremientos
@@ -51,4 +44,4 @@ cookiecutter https://github.com/platzi/curso-entorno-avanzado-ds --checkout cook
         └── README.md          <- The top-level README for developers using this project.
 
 ---
-Proyecto creado con fines demostrativos para el curso "[Configuración avanzada...]()" de [Platzi](https://platzi.com/) por [@jvelezmagic](https://twitter.com/jvelezmagic).
+
